@@ -9,7 +9,3 @@ fun main() {
     println("Age: $age")
     println("My name is ${name + " puche"} and I am ${age -1}")
 }
-
-
-
-a

@@ -6,7 +6,7 @@
 
 ---
 
-## Saturday, October 3 — 8:00 PM — 2 hours
+## Saturday, October 3 — 8:00 PM UNTIL 11:00 PM — 3 hours
 
 - Installed IntelliJ IDEA and OpenJDK 27
 - Created the Kotlin project, ran the sample code successfully
@@ -23,18 +23,20 @@
 - get use to this new IDE
 ---
 
-## Monday, October 5 — __ hours
+## Monday, October 5 —  11:00 AM - 12:00 PM 1 hours 
 
 **Goal:** Kotlin basic syntax
 
-- [ ] Official Kotlin tour — https://kotlinlang.org/docs/kotlin-tour-welcome.html
-- [ ] `practices/Variables.kt` — `val` vs `var` — https://kotlinlang.org/docs/basic-syntax.html#variables
-- [ ] Basic types (String, Int, Boolean, Char) — https://kotlinlang.org/docs/basic-types.html
+- [X] Official Kotlin tour — https://kotlinlang.org/docs/kotlin-tour-welcome.html
+- [X] `practices/Variables.kt` — `val` vs `var` — https://kotlinlang.org/docs/basic-syntax.html#variables
+- [X] Basic types (String, Int, Boolean, Char) — https://kotlinlang.org/docs/basic-types.html
 - [ ] `practices/Conditionals.kt` — `if` and `when` — https://kotlinlang.org/docs/control-flow.html
 - [ ] `practices/Loops.kt` — `for` and `while` — https://kotlinlang.org/docs/control-flow.html#for-loops
 
 **What I learned:**  
+- Learned about basic types, and List, how to declare properly a variable. 
 **What was hard:**
+- Why this language have two types of list? but is for safeness 
 
 ---
 
