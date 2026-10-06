@@ -23,27 +23,29 @@
 - get use to this new IDE
 ---
 
-## Monday, October 5 —  11:00 AM - 12:00 PM 1 hours 
+## Monday, October 5 —  11:00 AM - 12:00 PM & 20:30 PM - PM 22:30 3 hours 
 
 **Goal:** Kotlin basic syntax
 
 - [X] Official Kotlin tour — https://kotlinlang.org/docs/kotlin-tour-welcome.html
 - [X] `practices/Variables.kt` — `val` vs `var` — https://kotlinlang.org/docs/basic-syntax.html#variables
 - [X] Basic types (String, Int, Boolean, Char) — https://kotlinlang.org/docs/basic-types.html
-- [ ] `practices/Conditionals.kt` — `if` and `when` — https://kotlinlang.org/docs/control-flow.html
-- [ ] `practices/Loops.kt` — `for` and `while` — https://kotlinlang.org/docs/control-flow.html#for-loops
+- [X] Collections   basis -  https://kotlinlang.org/docs/kotlin-tour-collections.html
 
 **What I learned:**  
-- Learned about basic types, and List, how to declare properly a variable. 
+- Learned about basic types, and List, how to declare properly a variable. ]
+- lerned a lot about collections 
 **What was hard:**
 - Why this language have two types of list? but is for safeness 
+- why we need to declare mutable maps? this was hard for me. 
 
 ---
 
 ## Tuesday, October 6 — __ hours
 
 **Goal:** Functions, classes and collections
-
+- [ ] `practices/Conditionals.kt` — `if` and `when` — https://kotlinlang.org/docs/control-flow.html
+- [ ] `practices/Loops.kt` — `for` and `while` — https://kotlinlang.org/docs/control-flow.html#for-loops
 - [ ] `practices/Functions.kt` — https://kotlinlang.org/docs/functions.html
 - [ ] `practices/Classes.kt` — https://kotlinlang.org/docs/classes.html
 - [ ] Properties — https://kotlinlang.org/docs/properties.html
