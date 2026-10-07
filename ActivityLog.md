@@ -41,12 +41,12 @@
 
 ---
 
-## Tuesday, October 6 — __ hours
+## Tuesday, October 6 —22:30 - 01:30  3 hours
 
 **Goal:** Functions, classes and collections
-- [ ] `practices/Conditionals.kt` — `if` and `when` — https://kotlinlang.org/docs/control-flow.html
-- [ ] `practices/Loops.kt` — `for` and `while` — https://kotlinlang.org/docs/control-flow.html#for-loops
-- [ ] `practices/Functions.kt` — https://kotlinlang.org/docs/functions.html
+- [X] `practices/Conditionals.kt` — `if` and `when` — https://kotlinlang.org/docs/control-flow.html
+- [X] `practices/Loops.kt` — `for` and `while` — https://kotlinlang.org/docs/control-flow.html#for-loops
+- [X] `practices/Functions.kt` — https://kotlinlang.org/docs/functions.html
 - [ ] `practices/Classes.kt` — https://kotlinlang.org/docs/classes.html
 - [ ] Properties — https://kotlinlang.org/docs/properties.html
 - [ ] `practices/Collections.kt` — overview — https://kotlinlang.org/docs/collections-overview.html
@@ -55,7 +55,9 @@
 - [ ] Design on paper: what data does `HangmanGame` hold?
 
 **What I learned:**  
+I have learn the basic of the conditionals, I belive I can start to work on the project
 **What was hard:**
+the time to study, but this part was compressible 
 
 ---
 
