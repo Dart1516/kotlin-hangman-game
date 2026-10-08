@@ -47,10 +47,13 @@
 - [X] `practices/Conditionals.kt` — `if` and `when` — https://kotlinlang.org/docs/control-flow.html
 - [X] `practices/Loops.kt` — `for` and `while` — https://kotlinlang.org/docs/control-flow.html#for-loops
 - [X] `practices/Functions.kt` — https://kotlinlang.org/docs/functions.html
-- [ ] `practices/Classes.kt` — https://kotlinlang.org/docs/classes.html
-- [ ] Properties — https://kotlinlang.org/docs/properties.html
-- [ ] `practices/Collections.kt` — overview — https://kotlinlang.org/docs/collections-overview.html
-- [ ] Lists — https://kotlinlang.org/docs/list-operations.html
+
+
+## Wednesday, October 7 —22:00 - 02:00  4 hours
+- [X] `practices/Classes.kt` — https://kotlinlang.org/docs/classes.html
+- [X] Properties — https://kotlinlang.org/docs/properties.html
+- [X] `practices/Collections.kt` — overview — https://kotlinlang.org/docs/collections-overview.html
+- [X] Lists — https://kotlinlang.org/docs/list-operations.html
 - [ ] Sets (for guessed letters) — https://kotlinlang.org/docs/set-operations.html
 - [ ] Design on paper: what data does `HangmanGame` hold?
 
