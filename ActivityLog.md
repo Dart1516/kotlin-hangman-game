@@ -64,11 +64,12 @@ the time to study, but this part was compressible
 
 ---
 
-## Wednesday, October 7 — __ hours
+## Wednesday, October 8  23:00 — 02:00 2 hours
 
 **Goal:** Build the core of the game
 
-- [ ] `practices/Input.kt` — `readLine()` and null safety — https://kotlinlang.org/docs/null-safety.html
+- [X] `practices/Input.kt` — `readLine()` and null safety — https://kotlinlang.org/docs/null-safety.html
+- and this link https://kotlinlang.org/docs/standard-input.html#read-from-the-standard-input-with-readln
 - [ ] Strings: interpolation and iterating characters — https://kotlinlang.org/docs/strings.html
 - [ ] `HangmanGame` class: secret word, guessed letters, attempts left
 - [ ] Function that builds the display string with dashes
