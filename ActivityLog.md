@@ -75,8 +75,10 @@ the time to study, but this part was compressible
 - [X] Function that builds the display string with underscore
 - [X] Function that processes one guess
 
-**What I learned:**  
+**What I learned:** 
+- I Learned about readline, was pretty nice 
 **What was hard:**
+- The classes, I dont know how I can implement the classes, I will investigate later 
 
 ---
 
@@ -84,11 +86,11 @@ the time to study, but this part was compressible
 
 **Goal:** Complete game loop
 
-- [ ] Main loop: ask for a letter until win or lose
+- [X] Main loop: ask for a letter until win or lose
 - [X]  https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.ranges/random.html
-- [ ] Win condition and lose condition
-- [ ] Print game state each turn
-- [ ] Handle edge cases: repeated letter, empty input, uppercase
+- [X] Win condition and lose condition
+- [X] Print game state each turn
+- [X] Handle edge cases: repeated letter, empty input, uppercase
 
 **What I learned:**  
 **What was hard:**
