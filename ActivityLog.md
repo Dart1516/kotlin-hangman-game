@@ -71,20 +71,21 @@ the time to study, but this part was compressible
 - [X] `practices/Input.kt` — `readLine()` and null safety — https://kotlinlang.org/docs/null-safety.html
 - and this link https://kotlinlang.org/docs/standard-input.html#read-from-the-standard-input-with-readln
 - [ ] Strings: interpolation and iterating characters — https://kotlinlang.org/docs/strings.html
-- [ ] `HangmanGame` class: secret word, guessed letters, attempts left
-- [ ] Function that builds the display string with dashes
-- [ ] Function that processes one guess
+- [X] `HangmanGame` class: secret word, guessed letters, attempts left
+- [X] Function that builds the display string with underscore
+- [X] Function that processes one guess
 
 **What I learned:**  
 **What was hard:**
 
 ---
 
-## Thursday, October 8 — __ hours
+## Thursday, October 9 — 22:00 - 01:00   3 hours
 
 **Goal:** Complete game loop
 
 - [ ] Main loop: ask for a letter until win or lose
+- [X]  https://kotlinlang.org/api/core/kotlin-stdlib/kotlin.ranges/random.html
 - [ ] Win condition and lose condition
 - [ ] Print game state each turn
 - [ ] Handle edge cases: repeated letter, empty input, uppercase
